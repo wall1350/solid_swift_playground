@@ -5,7 +5,7 @@
  
  請見圖
  
- ![pic1](dip1.png)
+ ![pic1](isp1.png)
 */
 
 import UIKit
@@ -61,7 +61,7 @@ class DropBox: CloudProvider {
 
 /*:
 ## 解決方案：拆分成不同interface
- ![pic2](dip2.png)
+ ![pic2](isp2.png)
 */
 
 //我使用protcol 請將其視為interface
